@@ -8,10 +8,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yourusername/go-healthcare-api-benchmark/metrics"
-	"github.com/yourusername/go-healthcare-api-benchmark/models"
-	"github.com/yourusername/go-healthcare-api-benchmark/patterns"
-	"github.com/yourusername/go-healthcare-api-benchmark/simulator"
+	"github.com/Stella-Achar-Oiro/healthcare-api-benchmark/metrics"
+	"github.com/Stella-Achar-Oiro/healthcare-api-benchmark/models"
+	"github.com/Stella-Achar-Oiro/healthcare-api-benchmark/patterns"
+	"github.com/Stella-Achar-Oiro/healthcare-api-benchmark/simulator"
 )
 
 // LoadTestConfig holds configuration for the load test.

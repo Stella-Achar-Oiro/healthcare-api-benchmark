@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/yourusername/go-healthcare-api-benchmark/patterns"
-	"github.com/yourusername/go-healthcare-api-benchmark/simulator"
+	"github.com/Stella-Achar-Oiro/healthcare-api-benchmark/patterns"
+	"github.com/Stella-Achar-Oiro/healthcare-api-benchmark/simulator"
 )
 
 // BenchmarkNaive benchmarks the naive pattern with varying concurrency levels.
