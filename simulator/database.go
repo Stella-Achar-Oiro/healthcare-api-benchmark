@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Stella-Achar-Oiro/healthcare-api-benchmark/models"
+	"github.com/yourusername/go-healthcare-api-benchmark/models"
 )
 
 const (

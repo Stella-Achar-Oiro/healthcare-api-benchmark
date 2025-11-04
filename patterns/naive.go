@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"sync/atomic"
 
-	"github.com/Stella-Achar-Oiro/healthcare-api-benchmark/models"
-	"github.com/Stella-Achar-Oiro/healthcare-api-benchmark/simulator"
+	"github.com/yourusername/go-healthcare-api-benchmark/models"
+	"github.com/yourusername/go-healthcare-api-benchmark/simulator"
 )
 
 // NaiveHandler implements the naive approach: spawning a new goroutine for every request.

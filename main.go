@@ -12,9 +12,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Stella-Achar-Oiro/healthcare-api-benchmark/metrics"
-	"github.com/Stella-Achar-Oiro/healthcare-api-benchmark/patterns"
-	"github.com/Stella-Achar-Oiro/healthcare-api-benchmark/simulator"
+	"github.com/yourusername/go-healthcare-api-benchmark/metrics"
+	"github.com/yourusername/go-healthcare-api-benchmark/patterns"
+	"github.com/yourusername/go-healthcare-api-benchmark/simulator"
 )
 
 const (
