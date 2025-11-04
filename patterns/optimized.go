@@ -9,8 +9,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/yourusername/go-healthcare-api-benchmark/models"
-	"github.com/yourusername/go-healthcare-api-benchmark/simulator"
+	"github.com/Stella-Achar-Oiro/healthcare-api-benchmark/models"
+	"github.com/Stella-Achar-Oiro/healthcare-api-benchmark/simulator"
 )
 
 // OptimizedHandler implements the worker pool pattern with sync.Pool optimization.

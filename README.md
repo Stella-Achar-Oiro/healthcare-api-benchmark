@@ -35,8 +35,8 @@ This project simulates realistic healthcare API patterns including database quer
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/go-healthcare-api-benchmark.git
-cd go-healthcare-api-benchmark
+git clone https://github.com/Stella-Achar-Oiro/healthcare-api-benchmark.git
+cd healthcare-api-benchmark
 
 # Initialize Go module (if needed)
 go mod download
